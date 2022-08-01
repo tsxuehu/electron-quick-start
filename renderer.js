@@ -1,4 +1,4 @@
-const {ipcRenderer} = require('electron').ipcRenderer
+const {ipcRenderer} = require('electron')
 
 const log4js = require("log4js");
 log4js.configure({
